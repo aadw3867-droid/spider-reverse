@@ -1,0 +1,6675 @@
+{
+ "warnings": [
+  {
+   "code": "40003",
+   "title": "MISSING FREE BAGGAGE DETAILS",
+   "detail": "Missing Free baggage Details"
+  }
+ ],
+ "data": {
+  "airBoundGroups": [
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 5,
+     "segments": [
+      {
+       "flightId": "SEG-PG279-BKKHKT-2026-11-15-1940"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_7VDS424255IBBFI5GT8O3QM6Q2WG",
+      "fareFamilyCode": "PGPROMO",
+      "isCheapestOffer": true,
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG279-BKKHKT-2026-11-15-1940",
+        "cabin": "eco",
+        "bookingClass": "Q",
+        "statusCode": "HK",
+        "quota": 2
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "QNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 2600,
+           "total": 2830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 2600,
+         "total": 2830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 2830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 2600,
+            "total": 2830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 2600,
+          "total": 2830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_TQ9T1T80P2XIHYCCWACUCT097HE3",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG279-BKKHKT-2026-11-15-1940",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 3000,
+           "total": 3230,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 3000,
+         "total": 3230,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 3230,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 3000,
+            "total": 3230,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 3000,
+          "total": 3230,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_RRFGLJL3V5PQC5OIRXB0B20CI91D",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG279-BKKHKT-2026-11-15-1940",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 4250,
+           "total": 4480,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 4250,
+         "total": 4480,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG279-BKKHKT-2026-11-15-1940"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 4480,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 4250,
+            "total": 4480,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 4250,
+          "total": 4480,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 6,
+     "segments": [
+      {
+       "flightId": "SEG-PG287-BKKHKT-2026-11-15-2125"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_BWLMUWNSH9RL44D45BO216G2AG78",
+      "fareFamilyCode": "PGPROMO",
+      "isCheapestOffer": true,
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG287-BKKHKT-2026-11-15-2125",
+        "cabin": "eco",
+        "bookingClass": "Q",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "QNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 2600,
+           "total": 2830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 2600,
+         "total": 2830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 2830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 2600,
+            "total": 2830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 2600,
+          "total": 2830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_2DZT2PUPVC1CK4Q6DGTQOBVCGIQY",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG287-BKKHKT-2026-11-15-2125",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 3000,
+           "total": 3230,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 3000,
+         "total": 3230,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 3230,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 3000,
+            "total": 3230,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 3000,
+          "total": 3230,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_DFPPGDRXTWNS5GR2UF5A2EKAC9O6",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG287-BKKHKT-2026-11-15-2125",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 4250,
+           "total": 4480,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 4250,
+         "total": 4480,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG287-BKKHKT-2026-11-15-2125"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 4480,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 4250,
+            "total": 4480,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 4250,
+          "total": 4480,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 11700,
+     "ranking": 8,
+     "segments": [
+      {
+       "flightId": "SEG-PG101-BKKUSM-2026-11-15-0600",
+       "connectionTime": 3900
+      },
+      {
+       "flightId": "SEG-PG251-USMHKT-2026-11-15-0815"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_MS5ODYPC5HO59MPQZXU9RKRCKQR8",
+      "fareFamilyCode": "PGPROMO",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG101-BKKUSM-2026-11-15-0600",
+        "cabin": "eco",
+        "bookingClass": "R",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG251-USMHKT-2026-11-15-0815",
+        "cabin": "eco",
+        "bookingClass": "B",
+        "statusCode": "HK",
+        "quota": 1
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "RNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "BNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 5450,
+           "total": 5680,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 5450,
+         "total": 5680,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600",
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 5680,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 5450,
+            "total": 5680,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 5450,
+          "total": 5680,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_KHXCIW08DWEVJA0YJFH3LV1IX884",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG101-BKKUSM-2026-11-15-0600",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG251-USMHKT-2026-11-15-0815",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600",
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7450,
+           "total": 7680,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7450,
+         "total": 7680,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600",
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7680,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7450,
+            "total": 7680,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7450,
+          "total": 7680,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_8KPICTEXVULWWJ5CDXZSWU4Q7BTL",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG101-BKKUSM-2026-11-15-0600",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG251-USMHKT-2026-11-15-0815",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG101-BKKUSM-2026-11-15-0600",
+         "SEG-PG251-USMHKT-2026-11-15-0815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 18600,
+     "ranking": 20,
+     "segments": [
+      {
+       "flightId": "SEG-PG125-BKKUSM-2026-11-15-0700",
+       "connectionTime": 10800
+      },
+      {
+       "flightId": "SEG-PG259-USMHKT-2026-11-15-1110"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_PB0X6AXY3DX5QXB7D3BAXYPS0BII",
+      "fareFamilyCode": "PGPROMO",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG125-BKKUSM-2026-11-15-0700",
+        "cabin": "eco",
+        "bookingClass": "G",
+        "statusCode": "HK",
+        "quota": 7
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "GNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7000,
+           "total": 7230,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7000,
+         "total": 7230,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7230,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7000,
+            "total": 7230,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7000,
+          "total": 7230,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_058MDSSFSSI70EZ0CDD4LX9ZIAXS",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG125-BKKUSM-2026-11-15-0700",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_K1HJPYV4PLY139MRN7ZFORTMR2L6",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG125-BKKUSM-2026-11-15-0700",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG125-BKKUSM-2026-11-15-0700",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 14700,
+     "ranking": 11,
+     "segments": [
+      {
+       "flightId": "SEG-PG123-BKKUSM-2026-11-15-0805",
+       "connectionTime": 6600
+      },
+      {
+       "flightId": "SEG-PG259-USMHKT-2026-11-15-1110"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_AD58QRN63VZMZUG20RMGEMEUCE2I",
+      "fareFamilyCode": "PGPROMO",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG123-BKKUSM-2026-11-15-0805",
+        "cabin": "eco",
+        "bookingClass": "V",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "VNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7350,
+           "total": 7580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7350,
+         "total": 7580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7350,
+            "total": 7580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7350,
+          "total": 7580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_D7ZIYAJ0OSMBV7QP7F5ESJ9PLFUG",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG123-BKKUSM-2026-11-15-0805",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_SY3U8SIPGAHGMY6MHM50WNVOZGPA",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG123-BKKUSM-2026-11-15-0805",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG259-USMHKT-2026-11-15-1110",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 7
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG123-BKKUSM-2026-11-15-0805",
+         "SEG-PG259-USMHKT-2026-11-15-1110"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "DMK",
+     "destinationLocationCode": "HKT",
+     "duration": 16800,
+     "ranking": 15,
+     "segments": [
+      {
+       "flightId": "SEG-PG451-DMKUSM-2026-11-15-0850",
+       "connectionTime": 7500
+      },
+      {
+       "flightId": "SEG-PG253-USMHKT-2026-11-15-1230"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_U7S3B2EGMJJ4XCAOBKJLOH74DGEZ",
+      "fareFamilyCode": "PGPROMO",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG451-DMKUSM-2026-11-15-0850",
+        "cabin": "eco",
+        "bookingClass": "V",
+        "statusCode": "HK",
+        "quota": 2
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "VNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7350,
+           "total": 7580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7350,
+         "total": 7580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7350,
+            "total": 7580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7350,
+          "total": 7580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_MIUH2UU5HRZSOOHZUGIPYSGPUDRB",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG451-DMKUSM-2026-11-15-0850",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_PB35LCPK6457GY9O8TW7TP1TSO6T",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG451-DMKUSM-2026-11-15-0850",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG451-DMKUSM-2026-11-15-0850",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 16200,
+     "ranking": 14,
+     "segments": [
+      {
+       "flightId": "SEG-PG119-BKKUSM-2026-11-15-0900",
+       "connectionTime": 6900
+      },
+      {
+       "flightId": "SEG-PG253-USMHKT-2026-11-15-1230"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_DL9P57YIZYTYDIXVM0AMUWP8VK6E",
+      "fareFamilyCode": "PGPROMO",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG119-BKKUSM-2026-11-15-0900",
+        "cabin": "eco",
+        "bookingClass": "Q",
+        "statusCode": "HK",
+        "quota": 4
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "QNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7650,
+           "total": 7880,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7650,
+         "total": 7880,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7880,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7650,
+            "total": 7880,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7650,
+          "total": 7880,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_FPUU0V2N1BNNMVVSY3OLYW7R5AP7",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG119-BKKUSM-2026-11-15-0900",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_LRYF0QCA9Z24LRWMRJTNVIGXP0RA",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG119-BKKUSM-2026-11-15-0900",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG119-BKKUSM-2026-11-15-0900",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 1,
+     "segments": [
+      {
+       "flightId": "SEG-PG271-BKKHKT-2026-11-15-0800"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_HSN0VMMWV0A0VRN2CMMH368B6JDC",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG271-BKKHKT-2026-11-15-0800",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG271-BKKHKT-2026-11-15-0800"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 3000,
+           "total": 3230,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 3000,
+         "total": 3230,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG271-BKKHKT-2026-11-15-0800"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 3230,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 3000,
+            "total": 3230,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 3000,
+          "total": 3230,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_ZIOYHEEMZ0S26Z80BGWIIHJKG0FQ",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG271-BKKHKT-2026-11-15-0800",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG271-BKKHKT-2026-11-15-0800"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 4250,
+           "total": 4480,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 4250,
+         "total": 4480,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG271-BKKHKT-2026-11-15-0800"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 4480,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 4250,
+            "total": 4480,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 4250,
+          "total": 4480,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 4,
+     "segments": [
+      {
+       "flightId": "SEG-PG277-BKKHKT-2026-11-15-1730"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_I50CAMEV06F1NR9IRIXGME3Q2V7Y",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG277-BKKHKT-2026-11-15-1730",
+        "cabin": "eco",
+        "bookingClass": "T",
+        "statusCode": "HK",
+        "quota": 1
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "TNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG277-BKKHKT-2026-11-15-1730"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 3900,
+           "total": 4130,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 3900,
+         "total": 4130,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG277-BKKHKT-2026-11-15-1730"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 4130,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 3900,
+            "total": 4130,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 3900,
+          "total": 4130,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_QXTQWP878MOSL3CKLREP9X5IGUIH",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG277-BKKHKT-2026-11-15-1730",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG277-BKKHKT-2026-11-15-1730"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 4250,
+           "total": 4480,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 4250,
+         "total": 4480,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG277-BKKHKT-2026-11-15-1730"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 4480,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 4250,
+            "total": 4480,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 4250,
+          "total": 4480,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "DMK",
+     "destinationLocationCode": "HKT",
+     "duration": 13200,
+     "ranking": 10,
+     "segments": [
+      {
+       "flightId": "SEG-PG453-DMKUSM-2026-11-15-1310",
+       "connectionTime": 3900
+      },
+      {
+       "flightId": "SEG-PG401-USMHKT-2026-11-15-1550"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_3XPKN7JAVRF00KQKYN7NANHSD15A",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG453-DMKUSM-2026-11-15-1310",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 8
+       },
+       {
+        "flightId": "SEG-PG401-USMHKT-2026-11-15-1550",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG453-DMKUSM-2026-11-15-1310"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7700,
+           "total": 7930,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7700,
+         "total": 7930,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG453-DMKUSM-2026-11-15-1310",
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 7930,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7700,
+            "total": 7930,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7700,
+          "total": 7930,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_DKHSK60ZKKZ7EZ3RU14QSB26X68L",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG453-DMKUSM-2026-11-15-1310",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG401-USMHKT-2026-11-15-1550",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG453-DMKUSM-2026-11-15-1310"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG453-DMKUSM-2026-11-15-1310",
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 17100,
+     "ranking": 17,
+     "segments": [
+      {
+       "flightId": "SEG-PG153-BKKUSM-2026-11-15-1430",
+       "connectionTime": 9300
+      },
+      {
+       "flightId": "SEG-PG257-USMHKT-2026-11-15-1815"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_XORG6A1OF00U8YWT0SIRV4W87CKP",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG153-BKKUSM-2026-11-15-1430",
+        "cabin": "eco",
+        "bookingClass": "T",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 2
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "TNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG153-BKKUSM-2026-11-15-1430"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7800,
+           "total": 8030,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7800,
+         "total": 8030,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG153-BKKUSM-2026-11-15-1430",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8030,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7800,
+            "total": 8030,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7800,
+          "total": 8030,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_TXZUACQUZRNQD5Z2AWFUGC5WE4J4",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG153-BKKUSM-2026-11-15-1430",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG153-BKKUSM-2026-11-15-1430"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG153-BKKUSM-2026-11-15-1430",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 17400,
+     "ranking": 18,
+     "segments": [
+      {
+       "flightId": "SEG-PG151-BKKUSM-2026-11-15-1425",
+       "connectionTime": 9600
+      },
+      {
+       "flightId": "SEG-PG257-USMHKT-2026-11-15-1815"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_MEYW0CO9U1WLJ4PHT6G9OVYQEJLC",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG151-BKKUSM-2026-11-15-1425",
+        "cabin": "eco",
+        "bookingClass": "T",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 2
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "TNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG151-BKKUSM-2026-11-15-1425"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7800,
+           "total": 8030,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7800,
+         "total": 8030,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG151-BKKUSM-2026-11-15-1425",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8030,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7800,
+            "total": 8030,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7800,
+          "total": 8030,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_WEMMNE1WM7EZ8IFFNRY9GQU8132X",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG151-BKKUSM-2026-11-15-1425",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG151-BKKUSM-2026-11-15-1425"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG151-BKKUSM-2026-11-15-1425",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 11400,
+     "ranking": 7,
+     "segments": [
+      {
+       "flightId": "SEG-PG131-BKKUSM-2026-11-15-1020",
+       "connectionTime": 3600
+      },
+      {
+       "flightId": "SEG-PG253-USMHKT-2026-11-15-1230"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_927YAF7JG0UEOSBVAAWLYEGC3TUA",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG131-BKKUSM-2026-11-15-1020",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 1
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG131-BKKUSM-2026-11-15-1020"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG131-BKKUSM-2026-11-15-1020",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_CJGHZYQHRQ4B9ATOH9DYVTYBU70E",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG131-BKKUSM-2026-11-15-1020",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG131-BKKUSM-2026-11-15-1020",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG131-BKKUSM-2026-11-15-1020",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 15000,
+     "ranking": 12,
+     "segments": [
+      {
+       "flightId": "SEG-PG127-BKKUSM-2026-11-15-0920",
+       "connectionTime": 6900
+      },
+      {
+       "flightId": "SEG-PG253-USMHKT-2026-11-15-1230"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_F2FEHFXHVL97MY2X2YFTXVM68Y3J",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG127-BKKUSM-2026-11-15-0920",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG127-BKKUSM-2026-11-15-0920"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 7950,
+           "total": 8180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 7950,
+         "total": 8180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG127-BKKUSM-2026-11-15-0920",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 7950,
+            "total": 8180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 7950,
+          "total": 8180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_TG4DTY9050EPVVGV37W2W2LWA95X",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG127-BKKUSM-2026-11-15-0920",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG253-USMHKT-2026-11-15-1230",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG127-BKKUSM-2026-11-15-0920",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8600,
+           "total": 8830,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8600,
+         "total": 8830,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG127-BKKUSM-2026-11-15-0920",
+         "SEG-PG253-USMHKT-2026-11-15-1230"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8830,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8600,
+            "total": 8830,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8600,
+          "total": 8830,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 16800,
+     "ranking": 16,
+     "segments": [
+      {
+       "flightId": "SEG-PG133-BKKUSM-2026-11-15-1125",
+       "connectionTime": 9000
+      },
+      {
+       "flightId": "SEG-PG255-USMHKT-2026-11-15-1505"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_2LLJM35DWTKE3O0C0O5K8D8EZU0S",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG133-BKKUSM-2026-11-15-1125",
+        "cabin": "eco",
+        "bookingClass": "T",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG255-USMHKT-2026-11-15-1505",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "TNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG133-BKKUSM-2026-11-15-1125"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8050,
+           "total": 8280,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8050,
+         "total": 8280,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG133-BKKUSM-2026-11-15-1125",
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8280,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8050,
+            "total": 8280,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8050,
+          "total": 8280,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_4I0DXSHSUQC651RUYEW9H7PEC26L",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG133-BKKUSM-2026-11-15-1125",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       },
+       {
+        "flightId": "SEG-PG255-USMHKT-2026-11-15-1505",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG133-BKKUSM-2026-11-15-1125"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG133-BKKUSM-2026-11-15-1125",
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 12300,
+     "ranking": 9,
+     "segments": [
+      {
+       "flightId": "SEG-PG163-BKKUSM-2026-11-15-1550",
+       "connectionTime": 4500
+      },
+      {
+       "flightId": "SEG-PG257-USMHKT-2026-11-15-1815"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_PPWQIDMD6VV4EEW39N9C1U4OYJRF",
+      "fareFamilyCode": "PGSAVER",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG163-BKKUSM-2026-11-15-1550",
+        "cabin": "eco",
+        "bookingClass": "Y",
+        "statusCode": "HK",
+        "quota": 1
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "H",
+        "statusCode": "HK",
+        "quota": 2
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "YWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG163-BKKUSM-2026-11-15-1550"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "HNWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8700,
+           "total": 8930,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8700,
+         "total": 8930,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG163-BKKUSM-2026-11-15-1550",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8930,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8700,
+            "total": 8930,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8700,
+          "total": 8930,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     },
+     {
+      "airBoundId": "BC1-1-1I3PGZ_Y62XR6924NH29YCHPQO6IY2CZX2E",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG163-BKKUSM-2026-11-15-1550",
+        "cabin": "eco",
+        "bookingClass": "Y",
+        "statusCode": "HK",
+        "quota": 1
+       },
+       {
+        "flightId": "SEG-PG257-USMHKT-2026-11-15-1815",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "YWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG163-BKKUSM-2026-11-15-1550"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8950,
+           "total": 9180,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8950,
+         "total": 9180,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG163-BKKUSM-2026-11-15-1550",
+         "SEG-PG257-USMHKT-2026-11-15-1815"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 9180,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8950,
+            "total": 9180,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8950,
+          "total": 9180,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 2,
+     "segments": [
+      {
+       "flightId": "SEG-PG275-BKKHKT-2026-11-15-1025"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_C6ET1JN5KYPI93IUXCXJPLQWRWAM",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG275-BKKHKT-2026-11-15-1025",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG275-BKKHKT-2026-11-15-1025"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 4800,
+           "total": 5030,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 4800,
+         "total": 5030,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG275-BKKHKT-2026-11-15-1025"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 5030,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 4800,
+            "total": 5030,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 4800,
+          "total": 5030,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 5700,
+     "ranking": 3,
+     "segments": [
+      {
+       "flightId": "SEG-PG273-BKKHKT-2026-11-15-1240"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_ROB672BZ8MHM6D9Z81HS6IWGNS58",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG273-BKKHKT-2026-11-15-1240",
+        "cabin": "eco",
+        "bookingClass": "M",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "MWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG273-BKKHKT-2026-11-15-1240"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 5400,
+           "total": 5630,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 5400,
+         "total": 5630,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG273-BKKHKT-2026-11-15-1240"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 5630,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 5400,
+            "total": 5630,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 5400,
+          "total": 5630,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 15000,
+     "ranking": 13,
+     "segments": [
+      {
+       "flightId": "SEG-PG135-BKKUSM-2026-11-15-1155",
+       "connectionTime": 5700
+      },
+      {
+       "flightId": "SEG-PG255-USMHKT-2026-11-15-1505"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_06LM5TNGMFP0CBUVYKABVAL3EU7B",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG135-BKKUSM-2026-11-15-1155",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       },
+       {
+        "flightId": "SEG-PG255-USMHKT-2026-11-15-1505",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 4
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG135-BKKUSM-2026-11-15-1155"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG135-BKKUSM-2026-11-15-1155",
+         "SEG-PG255-USMHKT-2026-11-15-1505"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "boundDetails": {
+     "originLocationCode": "BKK",
+     "destinationLocationCode": "HKT",
+     "duration": 17700,
+     "ranking": 19,
+     "segments": [
+      {
+       "flightId": "SEG-PG135-BKKUSM-2026-11-15-1155",
+       "connectionTime": 8400
+      },
+      {
+       "flightId": "SEG-PG401-USMHKT-2026-11-15-1550"
+      }
+     ]
+    },
+    "airBounds": [
+     {
+      "airBoundId": "BC1-1-1I3PGZ_SFMPJWU7HZNQBKZ2GFIA8MZ7NE9N",
+      "fareFamilyCode": "PGFREEDOM",
+      "availabilityDetails": [
+       {
+        "flightId": "SEG-PG135-BKKUSM-2026-11-15-1155",
+        "cabin": "eco",
+        "bookingClass": "K",
+        "statusCode": "HK",
+        "quota": 4
+       },
+       {
+        "flightId": "SEG-PG401-USMHKT-2026-11-15-1550",
+        "cabin": "eco",
+        "bookingClass": "N",
+        "statusCode": "HK",
+        "quota": 9
+       }
+      ],
+      "fareInfos": [
+       {
+        "fareType": "unifares",
+        "fareClass": "NWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       },
+       {
+        "fareType": "unifares",
+        "fareClass": "KWW",
+        "pricedPassengerTypeCodes": [
+         "ADT"
+        ],
+        "travelerIds": [
+         "ADT-1"
+        ],
+        "flightIds": [
+         "SEG-PG135-BKKUSM-2026-11-15-1155"
+        ]
+       }
+      ],
+      "prices": {
+       "unitPrices": [
+        {
+         "travelerIds": [
+          "ADT-1"
+         ],
+         "prices": [
+          {
+           "base": 8350,
+           "total": 8580,
+           "currencyCode": "THB",
+           "taxes": [
+            {
+             "value": 0,
+             "currencyCode": "THB",
+             "code": "YQYR"
+            }
+           ],
+           "totalTaxes": 130
+          }
+         ]
+        }
+       ],
+       "totalPrices": [
+        {
+         "base": 8350,
+         "total": 8580,
+         "currencyCode": "THB",
+         "taxes": [
+          {
+           "value": 0,
+           "currencyCode": "THB",
+           "code": "YQYR"
+          }
+         ],
+         "totalTaxes": 130
+        }
+       ]
+      },
+      "services": [
+       {
+        "serviceCode": "FBA1",
+        "flightIds": [
+         "SEG-PG135-BKKUSM-2026-11-15-1155",
+         "SEG-PG401-USMHKT-2026-11-15-1550"
+        ]
+       }
+      ],
+      "airOffer": {
+       "totalPrice": {
+        "value": 8580,
+        "currencyCode": "THB"
+       },
+       "prices": {
+        "unitPrices": [
+         {
+          "travelerIds": [
+           "ADT-1"
+          ],
+          "prices": [
+           {
+            "base": 8350,
+            "total": 8580,
+            "currencyCode": "THB",
+            "taxes": [
+             {
+              "value": 0,
+              "currencyCode": "THB",
+              "code": "YQYR"
+             }
+            ],
+            "totalTaxes": 130
+           }
+          ]
+         }
+        ],
+        "totalPrices": [
+         {
+          "base": 8350,
+          "total": 8580,
+          "currencyCode": "THB",
+          "taxes": [
+           {
+            "value": 0,
+            "currencyCode": "THB",
+            "code": "YQYR"
+           }
+          ],
+          "totalTaxes": 130,
+          "totalFees": 100
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "meta": {
+  "office": {
+   "officeId": "BKKPG08AA"
+  }
+ },
+ "dictionaries": {
+  "location": {
+   "HKT": {
+    "type": "airport",
+    "airportName": "PHUKET INTL",
+    "cityCode": "HKT",
+    "cityName": "PHUKET",
+    "countryCode": "TH"
+   },
+   "BKK": {
+    "type": "airport",
+    "airportName": "SUVARNABHUMI INTL",
+    "cityCode": "BKK",
+    "cityName": "BANGKOK",
+    "countryCode": "TH"
+   },
+   "DMK": {
+    "type": "airport",
+    "airportName": "DON MUEANG INTL",
+    "cityCode": "BKK",
+    "cityName": "BANGKOK",
+    "countryCode": "TH"
+   },
+   "USM": {
+    "type": "airport",
+    "airportName": "KO SAMUI",
+    "cityCode": "USM",
+    "cityName": "KO SAMUI",
+    "countryCode": "TH"
+   }
+  },
+  "country": {
+   "TH": "THAILAND"
+  },
+  "airline": {
+   "PG": "BANGKOK AIRWAYS"
+  },
+  "aircraft": {
+   "320": "AIRBUS A320",
+   "319": "AIRBUS A319",
+   "ATR": "ATR42 / ATR 72 PASSENGER"
+  },
+  "flight": {
+   "SEG-PG287-BKKHKT-2026-11-15-2125": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "287",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T21:25:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T23:00:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "319",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG135-BKKUSM-2026-11-15-1155": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "135",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T11:55:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T13:30:00.000+07:00"
+    },
+    "aircraftCode": "ATR",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG133-BKKUSM-2026-11-15-1125": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "133",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T11:25:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T12:35:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG153-BKKUSM-2026-11-15-1430": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "153",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T14:30:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T15:40:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG275-BKKHKT-2026-11-15-1025": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "275",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T10:25:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T12:00:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "319",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG119-BKKUSM-2026-11-15-0900": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "119",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T09:00:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T10:35:00.000+07:00"
+    },
+    "aircraftCode": "ATR",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG453-DMKUSM-2026-11-15-1310": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "453",
+    "departure": {
+     "locationCode": "DMK",
+     "dateTime": "2026-11-15T13:10:00.000+07:00",
+     "terminal": "2"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T14:45:00.000+07:00"
+    },
+    "aircraftCode": "ATR",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG101-BKKUSM-2026-11-15-0600": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "101",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T06:00:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T07:10:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG451-DMKUSM-2026-11-15-0850": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "451",
+    "departure": {
+     "locationCode": "DMK",
+     "dateTime": "2026-11-15T08:50:00.000+07:00",
+     "terminal": "2"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T10:25:00.000+07:00"
+    },
+    "aircraftCode": "ATR",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG273-BKKHKT-2026-11-15-1240": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "273",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T12:40:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T14:15:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "320",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG279-BKKHKT-2026-11-15-1940": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "279",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T19:40:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T21:15:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "319",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG125-BKKUSM-2026-11-15-0700": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "125",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T07:00:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T08:10:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG401-USMHKT-2026-11-15-1550": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "401",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T15:50:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T16:50:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG127-BKKUSM-2026-11-15-0920": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "127",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T09:20:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T10:35:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4500,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG151-BKKUSM-2026-11-15-1425": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "151",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T14:25:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T15:35:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG253-USMHKT-2026-11-15-1230": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "253",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T12:30:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T13:30:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG271-BKKHKT-2026-11-15-0800": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "271",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T08:00:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T09:35:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "320",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG163-BKKUSM-2026-11-15-1550": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "163",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T15:50:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T17:00:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG257-USMHKT-2026-11-15-1815": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "257",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T18:15:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T19:15:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG277-BKKHKT-2026-11-15-1730": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "277",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T17:30:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T19:05:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "320",
+    "duration": 5700,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG255-USMHKT-2026-11-15-1505": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "255",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T15:05:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T16:05:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG251-USMHKT-2026-11-15-0815": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "251",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T08:15:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T09:15:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG259-USMHKT-2026-11-15-1110": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "259",
+    "departure": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T11:10:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "HKT",
+     "dateTime": "2026-11-15T12:10:00.000+07:00",
+     "terminal": "D"
+    },
+    "aircraftCode": "ATR",
+    "duration": 3600,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG123-BKKUSM-2026-11-15-0805": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "123",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T08:05:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T09:20:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4500,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   },
+   "SEG-PG131-BKKUSM-2026-11-15-1020": {
+    "marketingAirlineCode": "PG",
+    "operatingAirlineCode": "PG",
+    "marketingFlightNumber": "131",
+    "departure": {
+     "locationCode": "BKK",
+     "dateTime": "2026-11-15T10:20:00.000+07:00"
+    },
+    "arrival": {
+     "locationCode": "USM",
+     "dateTime": "2026-11-15T11:30:00.000+07:00"
+    },
+    "aircraftCode": "319",
+    "duration": 4200,
+    "isOpenSegment": false,
+    "secureFlightIndicator": false
+   }
+  },
+  "currency": {
+   "THB": {
+    "name": "THAI BAHT",
+    "decimalPlaces": 0
+   }
+  },
+  "anonymousTraveler": {
+   "ADT-1": {
+    "passengerTypeCode": "ADT"
+   }
+  },
+  "fareFamilyWithServices": {
+   "PGPROMO": {
+    "hierarchy": 9000,
+    "commercialFareFamily": "PGPROMO",
+    "cabin": "eco"
+   },
+   "PGSAVER": {
+    "hierarchy": 8000,
+    "commercialFareFamily": "PGPROMO",
+    "cabin": "eco"
+   },
+   "PGFREEDOM": {
+    "hierarchy": 7000,
+    "commercialFareFamily": "PGPROMO",
+    "cabin": "eco"
+   }
+  },
+  "bookingStatus": {
+   "HK": {
+    "name": "Holding confirmed"
+   }
+  },
+  "service": {
+   "FBA1": {
+    "serviceType": "freeCheckedBaggage",
+    "baggagePolicyDescriptions": [
+     {
+      "type": "weight",
+      "weightUnit": "kilogram",
+      "quantity": 20
+     }
+    ]
+   }
+  }
+ }
+}

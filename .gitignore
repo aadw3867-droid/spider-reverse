@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- reverse-engineering local state (real tokens / cookies) ----
+re84/js_reverse_cache/seed_token.txt
+re84/js_reverse_cache/pool_token.json
+js_reverse_cache/private/
+config.local.json
+relay_audit.jsonl
+*.session.json
+output/
+

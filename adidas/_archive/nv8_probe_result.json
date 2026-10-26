@@ -1,0 +1,48 @@
+﻿{
+  "mode": "nv8-live-session-relay",
+  "target": "https://www.adidas.com.hk/",
+  "challengeScript": {
+    "bytes": 521528,
+    "sha256": "553e4f62200be416a06c91dcb9a5980c7b2be01609899c600b2dcbc3cb3713df"
+  },
+  "evaluation": {
+    "ok": true,
+    "valueType": "external-script",
+    "error": null
+  },
+  "state": "{\"cookieNames\":[],\"title\":\"\",\"readyState\":\"complete\",\"ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0\"}",
+  "requestCount": 1,
+  "requests": [
+    {
+      "topKeys": [
+        "api",
+        "body",
+        "bodyBase64",
+        "bodyByteLength",
+        "bodyText",
+        "bodyTruncated",
+        "context",
+        "headers",
+        "headersTruncated",
+        "method",
+        "outcome",
+        "sequence",
+        "url",
+        "urlTruncated"
+      ],
+      "requestKeys": [],
+      "responseKeys": [],
+      "api": "script",
+      "method": "GET",
+      "url": "https://www.adidas.com.hk/CAcWH/8AFW/UuUB/1t86/p0G/kkY7p4Ecik/YhYNBgEB/ISxaV/DUMT1AY?v=5f584821-4bd1-4fec-0505-f1912fea17cd",
+      "outcome": "replayed",
+      "status": null,
+      "headers": [],
+      "bodyLength": 0,
+      "bodySha256": null,
+      "bodyKeys": [],
+      "responseBodyLength": 0,
+      "responseSetCookieNames": []
+    }
+  ]
+}
