@@ -50,6 +50,7 @@ x-s = "XYS_" + custom_base64(JSON{x0..x7})
 ├─ demo_concurrent.py       # 并发示例 / 压测
 ├─ set_session.py           # 更新 cookie + webSsk 并自检
 ├─ requirements.txt
+├─ docs/JSVMP四步法.md      # JSVMP 纯算方法论笔记（建议先读）
 └─ README.md
 ```
 
