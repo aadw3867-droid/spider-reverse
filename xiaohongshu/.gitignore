@@ -1,0 +1,25 @@
+# 本地真实凭据（务必不要提交）
+assets/config.json
+assets/session.txt
+
+# 运行产物
+out.json
+feed.json
+results*.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

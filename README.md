@@ -10,6 +10,7 @@ Web 逆向学习与研究记录。所有内容仅用于技术研究与学习，�
 | `adidas/` | adidas 香港站 | Akamai Bot Manager sensor（NV8 执行当轮 challenge） |
 | `航空机票akmi/` | T'way 机票查询 | Akamai + NetFunnel（IV8 执行 collector） |
 | `re84/` | Bangkok Airways | reese84 token 续签（纯 HTTP，无浏览器） |
+| `xiaohongshu/` | 小红书 | x-s 纯算签名（mnsv2 独立 JSVMP，Node worker 池） |
 
 ## 运行环境
 
